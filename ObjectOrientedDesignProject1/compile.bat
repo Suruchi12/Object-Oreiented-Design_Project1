@@ -1,0 +1,1 @@
+devenv Project1SS.sln /rebuild debug

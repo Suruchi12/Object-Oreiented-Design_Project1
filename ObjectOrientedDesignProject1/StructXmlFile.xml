@@ -1,0 +1,23 @@
+
+  <Project>
+    <Dependents>
+      <Depenendence1>
+        <NoSqlDb>
+          Cpp Properties
+          Convert
+        </NoSqlDb>
+      </Depenendence1>
+      <Depenendence2>
+        <Queries>
+          NoSqlDb
+          Convert
+        </Queries>
+      </Depenendence2>
+      <Depenendence3>
+        <xmlpersist>
+          NoSqlDb
+          XmlDocument
+        </xmlpersist>
+      </Depenendence3>
+    </Dependents>
+  </Project>
