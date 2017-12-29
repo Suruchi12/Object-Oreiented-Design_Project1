@@ -4,6 +4,8 @@
 #### Object Oriented Design 
 #### Project 1
 
+## Workings of the Project
+
 Constructed a non SQL database using key-value pairs using C++. 
 It can persist the database contents to an XML file such that the process is reversible. 
 Along with performing functions such as addition or /and deletion of the relationships, it can edit metadata associated with the key-value pair. 
