@@ -1,8 +1,8 @@
 # NO SQL DATABASE
 
-## CSE 687 
-## Object Oriented Design 
-## Project 1
+### CSE 687 
+### Object Oriented Design 
+### Project 1
 
 Constructed a non SQL database using key-value pairs using C++. 
 It can persist the database contents to an XML file such that the process is reversible. 
